@@ -1,0 +1,1 @@
+python3 LightDark.py in/Graph.js out/out.js
